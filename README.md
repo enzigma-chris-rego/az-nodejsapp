@@ -1,2 +1,2 @@
 # az-nodejsapp
-This is App is test App for deplooyment to Azure
+This is a test NodeJS App for deployment to Azure
